@@ -1,0 +1,39 @@
+!DOCTYPE html
+html lang=en
+head
+	meta charset=UTF-8
+	titleTask 4title
+	link rel=stylesheet href=cssbootstrap.css
+	link rel=stylesheet type=textcss href=cssstyle.css
+head
+body
+	div class=full
+		div class=row
+			div class=col-lg-4
+				div class=firstColumn
+					div class=square sq_1div
+					p class=text_1hellop
+					div class=square sq_2div
+					p class=text_2hellop
+					div class=square sq_3div
+					p class=text_3hellop
+				div
+			div
+			div class=col-lg-4
+				div class=secondColumn
+					div class=square sq_4div
+					p class=text_4hellop
+				div
+			div
+			div class=col-lg-4
+				div class=thirdColumn
+					div class=square sq_5div
+					p class=text_5hellop
+				div
+			div
+		div
+	div
+body
+	script src=httpsajax.googleapis.comajaxlibsjquery3.1.0jquery.min.jsscript
+	script src=httpsmaxcdn.bootstrapcdn.combootstrap3.3.7jsbootstrap.min.js integrity=sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa crossorigin=anonymousscript
+html
